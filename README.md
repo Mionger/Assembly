@@ -1,2 +1,16 @@
 # Assembly
-something about assembly
+something about assembly  
+  
+## CONTENT INDEX  
+1.Random No  
+A program that can randomly select a number in the file provided.  
+[Random No Select](https://github.com/Mionger/Assembly/blob/master/project/K.ASM "Random No Select")  
+  
+2.Calculate Fibonacci number 
+A program which can help to calculate specified Fibonacci number.  
+Input the index that you want to get and then you will get that Fibonacci number.  
+[Fibonacci](https://github.com/Mionger/Assembly/blob/master/homework/Fibonacci.asm "Fibonacci")  
+
+3.Bubble Sort  
+Bubble Sort in MIPS assembly.  
+[MIPS Bubble Sort](https://github.com/Mionger/Assembly/blob/master/homework/BubbleSort.asm "MIPS Bubble Sort")  
