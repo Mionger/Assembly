@@ -19,6 +19,3 @@ Bubble Sort in MIPS assembly.
 Booth Multiplication in MIPS assembly.  
 [MIPS Booth](https://github.com/Mionger/Assembly/blob/master/homework/Booth.asm "MIPS Booth")  
   
-5.MIPS File Operation  
-Opening a file, closing a file, reading from a file and writing to a file in MIPS assembly.  
-[MIPS File Operation](https://github.com/Mionger/Assembly/blob/master/test/MIPSFileOperation.asm "MIPS File Operation")  
